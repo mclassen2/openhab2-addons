@@ -144,7 +144,7 @@
 		<state pattern="%s">
 			<options>
 				<option value="Music Video">Music Video</option>
-				<option value="The Roxy Theater">The Roxy Theater</option>
+				<option value="The Roxy Theatre">The Roxy Theatre</option>
 				<option value="Cellar Club">Cellar Club</option>
 				<option value="Hall in Vienna">Hall in Vienna</option>
 				<option value="Hall in Munich">Hall in Munich</option>
